@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--
+Monoslideshow 2.0 configuration file
+Please visit http://www.monoslideshow.com for more info
+-->
+<album thumbnail="album/albumThumbnail.jpg" itemPath="album/images" thumbnailPath="album/thumbnails">
+	<configuration>
+		<transition kenBurnsMode="randomZoomIn" />
+	</configuration>
+	<contents>
+		<image source="photo1.jpg" title="title 1" description="description 1" />
+		<image source="photo2.jpg" title="title 2" description="description 2" />
+		<image source="photo3.jpg" title="title 3" description="description 3" />
+	</contents>
+</album>
