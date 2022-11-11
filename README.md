@@ -4,15 +4,30 @@ Tout ce qui concerne de prêt ou de loin mon CV / Curriculum Vitae Vitæ, mon po
 
 SST des ressources.
 
+## ♻️⬆️ Date de dernière mise à jour
+
+11/2022
+
 ## 🚀 Taf en cours sinon jme sperse
 
-1. Lister l'ensemble des employeurs
-   1. Rajouter les projets manquants depuis 11/2019
-2. Lister l'ensemble des projets réalisés
-   1. Rajouter les projets manquants depuis 11/2019
-   2. Trier par employeurs
-   3. Rapatrier les images
-   4. Ranger ~ assets/année--employeur--projet
+1. 🚀 Maj `cv-etudes-employeurs-realisations`
+   1. ✅ Linter le markdown :')
+   2. ✅ Faire un boilerplate d'xp pro & normaliser
+      1. Titre > Année / Employeur / Nom du projet
+      2. Période, durée
+      3. Poste
+      4. Mission
+      5. Technologies
+      6. Lien vers le projet si en ligne, sinon folio
+   3. 🚀 Revoir le contenu de l'existant
+      1. Revoir le tri : Année & mois > Employeur > Projet (par année & mois)
+      2. Appliquer le boilerplate
+   4. Lister l'ensemble des employeurs
+   5. Lister l'ensemble des projets réalisés
+      1. Rajouter les projets manquants depuis 11/2019
+      2. Trier par employeurs
+2. Rapatrier les images
+   1. Ranger ~ assets/année--employeur--projet, tout à la racine
 
 ## 📂 Ouksékwa
 
@@ -50,7 +65,7 @@ SST des ressources.
    1. Contient la page ["études et expériences professionnelles"](http://masamune.fr/cv/xp/)
    2. Les données proviennent d'un fichier .md stocké dans un autre repo
       1. Le fichier est converti en html puis injecté dans la page x')
-   3. [github.com/youpiwaza/etudes-employeurs-realisations](https://github.com/youpiwaza/etudes-employeurs-realisations)
+   3. [github.com/youpiwaza/etudes-employeurs-realisations](https://github.com/youpiwaza/cv-etudes-employeurs-realisations)
       1. Le README.md injecté en html dans le projet précédent
 
 Le seo fallback est injecté sur masamune.fr, dans le dossier `/cv`
