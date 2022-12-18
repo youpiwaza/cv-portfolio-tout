@@ -61,7 +61,7 @@ html {
 
 body {
   /* https://www.transparenttextures.com/ */
-  background: url('assets/bg.png') repeat;
+  background: url('assets/images/bg.png') repeat;
   display: flex;
   font-size: 1em;
   justify-content: center;

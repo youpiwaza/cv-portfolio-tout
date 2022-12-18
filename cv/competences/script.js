@@ -57,7 +57,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const katHTML = document.getElementById('kat');
     const img     = document.createElement('img');
     img.id        = 'kat';
-    img.src       = 'assets/kat-magician-whoosh.webp';
+    img.src       = 'assets/images/kat-magician-whoosh.webp';
     img.alt       = 'Chat qui tape au clavier très très vite, c\'est genre la blague c\'est lui qui rédige le texte qui s\'affiche. Ha ha ha'
     img.title     = 'Trop de choses à taper..';
 
