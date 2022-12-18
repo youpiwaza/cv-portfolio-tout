@@ -10,26 +10,9 @@ SST des ressources.
 
 ## 🚀 Taf en cours sinon jme sperse
 
-1. ✅ Maj `cv-etudes-employeurs-realisations`
-   1. ✅ Linter le markdown :')
-   2. ✅ Faire un boilerplate d'xp pro & normaliser
-      1. ✅ Titre > Année / Employeur / Nom du projet
-      2. ✅ Période, durée
-      3. ✅ Poste
-      4. ✅ Mission
-      5. ✅ Technologies
-      6. ✅ Lien vers le projet si en ligne, sinon folio
-   3. ✅🧽 Revoir le contenu de l'existant (clean / lint)
-      1. ✅ Revoir le tri : Année & mois > Employeur > Projet (par année & mois)
-      2. ✅ Appliquer le boilerplate
-      3. ✅ Vérifier pas de `Mission/s` qui traînent
-      4. ✅ Noms de technologies, intitulés de postes
-         1. ✅ Normaliser casse
-         2. ~~Alpha réorder~~
-      5. ✅ Listes
-         1. ✅ Commencent par une majuscule
-         2. ✅ Pas de points à la fin des lignes
-   4. ✅✨ Rajouter les projets manquants depuis 11/2019
+1. Maj `cv-etudes-employeurs-realisations`
+   1. Benner l'ancien truc
+   2. Faire juste du putain de html css js simple sans putain de rien autour et nique les dépendances npm
 2. 🚀 Rapatrier les images
    1. Ranger ~ assets/année--employeur--projet, tout à la racine
 3. Créer les images nouveaux projets
