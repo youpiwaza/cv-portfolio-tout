@@ -10,16 +10,21 @@ SST des ressources.
 
 ## 🚀 Taf en cours sinon jme sperse
 
-1. Maj `cv-etudes-employeurs-realisations`
-   1. Benner l'ancien truc
-   2. Faire juste du putain de html css js simple sans putain de rien autour et nique les dépendances npm
-2. 🚀 Rapatrier les images
+1. ✅ Maj `etudes-employeurs-realisations`
+   1. ✅ Benner l'ancien truc
+   2. ✅ Faire juste du putain de html css js simple sans putain de rien autour et nique les dépendances npm
+2. ✅ Maj `competences`
+   1. ✅ Benner l'ancien truc
+   2. ✅ Faire juste du putain de html css js simple sans putain de rien autour et nique les dépendances npm
+3. Rapatrier le seo fallback
+4. 🚀 Rapatrier les images
    1. Ranger ~ assets/année--employeur--projet, tout à la racine
-3. Créer les images nouveaux projets
+5. Créer les images nouveaux projets
       1. Champagne Didier Lapie
       2. PB Modélisme
       3. Effy art tattoo
       4. Bilan service
+6. Supprimer les anciens repos cv pour éviter la confusion
 
 ## 📂 Ouksékwa
 
