@@ -21,7 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-         1. masamune--champagne-didier-lapie--site--INDEX-sujet
+         1. masamune--thibault-ludwig--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -46,10 +46,10 @@ SST des ressources.
       10. ✅🖼️🔲👥💬 eggs / groupemarck / basile boli
       11. ✅🖼️🔲👥💬 eggs / sofinco / café étoile
    4. ✅🖼️🔲👥💬 champagne-didier-lapie
-   5. acgm
+   5. ✅🖼️🔲👥💬 acgm
    6. vibrant-design
    7. ~private-golf-key
-   8. thibault ludwig
+   8. ✅🖼️🔲👥💬 thibault ludwig
    9. gmf
    10. free tennis
    11. masamune blog
