@@ -1,7 +1,7 @@
 console.log('script.js');
 
 window.addEventListener('DOMContentLoaded', () => {
-  //// Font face observer
+  // * Font face observer
   // https://github.com/bramstein/fontfaceobserver
   //                                family name declared in css @import
   const font = new FontFaceObserver('Roboto Condensed');
@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', () => {
     bodyHTML.classList.add('fonts-loaded');
   });
 
-  //// Responsive JS / Prefer use _.throttle if it isn't one shot
+  // * Responsive JS / Prefer use _.throttle if it isn't one shot
   // const browserWidth = window.innerWidth || document.body.clientWidth;
 
   // style.css > @media screen and (min-width: 960px)
@@ -26,8 +26,9 @@ window.addEventListener('DOMContentLoaded', () => {
     htmlHTML.classList.add('bg');
   }, 500);
 
-  //// Redirections
-  let pdfUri = '191112-CV-Maxime-Chevasson-Dev-Web-Fullstack-w-links.pdf';
+  // * Redirections
+  const pdfUri = '191112-CV-Maxime-Chevasson-Dev-Web-Fullstack-w-links.pdf';
+  
   // Mobile
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
     // Redirect to online pdf display
