@@ -21,7 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-         2. masamune--nestle-fondation--carte-et-forum--INDEX-sujet
+         1. masamune--groupemarck--question-basile-boli--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -43,7 +43,7 @@ SST des ressources.
       7. ✅🖼️🔲👥💬 eggs / la poste / intégration
       8. ✅🖼️🔲👥💬 eggs / topicrem / appli-facebook
       9. ✅🖼️🔲👥💬 eggs / nestle fondation / cartes
-      10. eggs / groupemarck / basile boli
+      10. ✅🖼️🔲👥💬 eggs / groupemarck / basile boli
       11. eggs / sofinco / café étoile
    4. champagne-didier-lapie
    5. acgm
