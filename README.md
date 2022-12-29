@@ -45,7 +45,7 @@ SST des ressources.
       9. ✅🖼️🔲👥💬 eggs / nestle fondation / cartes
       10. ✅🖼️🔲👥💬 eggs / groupemarck / basile boli
       11. ✅🖼️🔲👥💬 eggs / sofinco / café étoile
-   4. champagne-didier-lapie
+   4. ✅🖼️🔲👥💬 champagne-didier-lapie
    5. acgm
    6. vibrant-design
    7. ~private-golf-key
