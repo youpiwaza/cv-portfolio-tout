@@ -39,10 +39,9 @@ SST des ressources.
          1. 🎞️ [youtoob](https://www.youtube.com/watch?v=rwGpCL2PV6I)
       6. ✅✨🔲👥💬 eggs / voyage / mois-saveur
          1. 🎞️ [youtoob](https://www.youtube.com/watch?v=49n7qFvwgts)
-      7. eggs / la poste / intégration
-         1. masamune--la-poste--integration--
+      7. ✅🖼️🔲👥💬 eggs / la poste / intégration
       8. eggs / topicrem / appli-facebook
-      9.  eggs / nestle fondation / cartes
+      9. eggs / nestle fondation / cartes
       10. eggs / groupemarck / basile boli
       11. eggs / sofinco / café étoile
    4. champagne-didier-lapie
