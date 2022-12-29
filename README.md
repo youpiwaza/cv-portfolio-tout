@@ -31,7 +31,7 @@ SST des ressources.
       1. ✅✨🔲👥💬 eggs / mattel / hotwheels-adrenaline
          1. ✅ Captures d'écran anciennes vidéos > Regrouper les images en une
       2. ✅🖼️🔲👥💬 eggs / refonte-site
-      3. 🚀 eggs / kenzo / flowertag
+      3. ✅✨🔲👥💬 eggs / kenzo / flowertag
       4. eggs / areva / patchwork
       5. eggs / clairefontaine / mini-jeux
       6. eggs / voyage / mois-saveur
