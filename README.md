@@ -24,20 +24,24 @@ SST des ressources.
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
-      4. 📼 Vidéo
+      4. 🎞️ Vidéo
       5. 👔 Entreprise
    2. ✅🖼️👥💬🔲 masamune / champagne-bonnevie-bocart
    3. ✅👔🔲 eggs
       1. ✅✨🔲👥💬 eggs / mattel / hotwheels-adrenaline
          1. ✅ Captures d'écran anciennes vidéos > Regrouper les images en une
+         2. 🎞️ [youtoob](https://www.youtube.com/watch?v=3TrCNIH9fBQ)
       2. ✅🖼️🔲👥💬 eggs / refonte-site
       3. ✅✨🔲👥💬 eggs / kenzo / flowertag
-      4. eggs / areva / patchwork
-      5. eggs / clairefontaine / mini-jeux
+         1. 🎞️ [youtoob](https://www.youtube.com/watch?v=V4PWrp8cTGw) 
+      4. ✅🖼️🔲👥💬 eggs / areva / patchwork
+      5. ✅✨🔲👥💬eggs / clairefontaine / mini-jeux
+         1. 🎞️ [youtoob](https://www.youtube.com/watch?v=rwGpCL2PV6I)
       6. eggs / voyage / mois-saveur
+         1. 🎞️ [youtoob](https://www.youtube.com/watch?v=49n7qFvwgts)
       7. eggs / la poste / intégration
       8. eggs / topicrem / appli-facebook
-      9.  eggs / nestle fondation / cartes
+      9. eggs / nestle fondation / cartes
       10. eggs / groupemarck / basile boli
       11. eggs / sofinco / café étoile
    4. champagne-didier-lapie
@@ -73,7 +77,7 @@ SST des ressources.
        1. Articles de blog
        2. Photos élèves
    34. Champagne pascal picard
-   35. 🖼️📼 Champagne didier Lapie
+   35. 🖼️🎞️ Champagne didier Lapie
    36. 💩 Oclock
    37. ⏩ La passerelle
        1. Articles de blog
@@ -89,7 +93,7 @@ SST des ressources.
    2. Faire des dossiers pour les boites dans lesquelles j'ai bossé, afin d'éviter les doublons
    3. Dossier ou pas d'images pour les projets > suffixer rieng
    4. 🖼️ Si possible chopay les images en png clean
-   5. 📼 Si possible faire une vidéo via obs
+   5. 🎞️ Si possible faire une vidéo via obs
 6. Cleaner images
    1. Dédoublonner les images (miniatures wp alakon)
    2. Vérifier sites encore en place > Captures propres en png
@@ -99,7 +103,7 @@ SST des ressources.
    5. Renommer proprement YYMM-masamune-client-projet-description
    6. Ajouter watermark
    7. Versionner une fois la merde virée
-   8. 📼 Vidéos sur youtoob
+   8. 🎞️ Vidéos sur youtoob
 7. Pas oublier de maj je seo fall back sur l'index
 8. 🌱 EVENTUELLEMENT refaire un gulp pour minimiser les bousins
 9. Supprimer les anciens repos cv pour éviter la confusion
