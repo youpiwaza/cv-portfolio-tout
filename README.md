@@ -53,8 +53,8 @@ SST des ressources.
    8. ✅🖼️🔲👥💬 private-golf-key
    9. ✅🖼️🔲👥💬 vibrant-design
    10. ✅🖼️🔲👥💬 free tennis
-   11. 🚀 masamune blog
-   12. vinci immobilier
+   11. ✅🖼️🔲👥💬  masamune blog
+   12. 🚀 vinci immobilier
    13. medialist
    14. creperie framboise
    15. 💩 la fabrique a jeux et a buzz / M6 mozaic 100% aventure
