@@ -21,6 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
+         1. masamune--bagel-road--site--INDEX-sujet
          1. masamune--argus--site-321-auto--INDEX-sujet
          1. masamune--ml-architecture--site--INDEX-sujet
          1. masamune--fabrique-jeux-buzz--m6-mozaic-rock--INDEX-sujet
@@ -69,7 +70,7 @@ SST des ressources.
    23. ✅🖼️🔲👥💬 argus / 321 auto
    24. ✅👔🔲 Social shaker
    25. ✅👔🔲 Eptica
-   26. bagel road
+   26. ✅🖼️🔲👥💬 bagel road
    27. kernix / mad lords     🚨🚨🚨 Y'a des lisez wam
    28. kernix / cado          🚨🚨🚨 Y'a des lisez wam
    29. kernix / prestashop    🚨🚨🚨 Y'a des lisez wam
