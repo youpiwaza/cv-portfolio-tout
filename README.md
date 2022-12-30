@@ -48,9 +48,9 @@ SST des ressources.
    4. ✅🖼️🔲👥💬 acgm
    5. ✅🖼️🔲👥💬 champagne-didier-lapie
    6. ✅🖼️🔲👥💬 thibault ludwig
-   7. 🚀 gmf
-   8. vibrant-design
-   9. ~private-golf-key
+   7. ✅🖼️🔲👥💬 gmf
+   8. ~private-golf-key
+   9. 🚀 vibrant-design
    10. free tennis
    11. masamune blog
    12. vinci immobilier
