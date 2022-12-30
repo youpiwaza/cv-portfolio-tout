@@ -21,7 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-         1. masamune--private-golf-key--site--INDEX-sujet
+         1. masamune--vibrant-design--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -50,8 +50,8 @@ SST des ressources.
    6. ✅🖼️🔲👥💬 thibault ludwig
    7. ✅🖼️🔲👥💬 gmf
    8. ✅🖼️🔲👥💬 private-golf-key
-   9. 🚀 vibrant-design
-   10. free tennis
+   9. ✅🖼️🔲👥💬 vibrant-design
+   10. 🚀 free tennis
    11. masamune blog
    12. vinci immobilier
    13. medialist
