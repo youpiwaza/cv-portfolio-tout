@@ -21,10 +21,11 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-         1. masamune--vinci-immobilier--conseil--INDEX-sujet
-         1. masamune--medialist--site--INDEX-sujet
-         1. masamune--free-tennis--site--INDEX-sujet
-         1. masamune--vibrant-design--site--INDEX-sujet
+            1.  INDEX-sujet
+         2. masamune--vinci-immobilier--conseil--INDEX-sujet
+         3. masamune--medialist--site--INDEX-sujet
+         4. masamune--free-tennis--site--INDEX-sujet
+         5. masamune--vibrant-design--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -56,31 +57,31 @@ SST des ressources.
    9. ✅🖼️🔲👥💬 vibrant-design
    10. ✅🖼️🔲👥💬 free tennis
    11. ✅🖼️🔲👥💬  masamune blog
-   13. ✅🖼️🔲👥💬 medialist
-   14. ✅🖼️🔲👥💬 vinci immobilier
-   15. 🚀creperie framboise
-   16. 💩 la fabrique a jeux et a buzz / M6 mozaic 100% aventure
-   17. 💩 la fabrique a jeux et a buzz / figaro visit britain
-   18. 💩 la fabrique a jeux et a buzz / M6 mozaic visa pour le monde
-   19. 💩 la fabrique a jeux et a buzz / leclerc fete drive
-   20. 💩 la fabrique a jeux et a buzz / saint james mojito
-   21. 🔗 la fabrique a jeux et a buzz / M6 mozaic rock
-   22. 💩 la fabrique a jeux et a buzz / Le club figaro golf
-   23. ml architecture
-   24. argus
-   25. 🖼️ Social shaker
-   26. 🖼️ Eptica
-   27. bagel road
-   28. kernix / mad lords     🚨🚨🚨 Y'a des lisez wam
-   29. kernix / cado          🚨🚨🚨 Y'a des lisez wam
-   30. kernix / prestashop    🚨🚨🚨 Y'a des lisez wam
-   31. 🖼️ Ergelis
-   32. 🖼️🔗 Trait tendance
-   33. 🖼️ BTP Consultants
-   34. 3wa
+   12. ✅🖼️🔲👥💬 medialist
+   13. ✅🖼️🔲👥💬 vinci immobilier
+   14. ✅🖼️🔲👥💬 creperie framboise
+   15. 🚀 💩 la fabrique a jeux et a buzz / M6 mozaic 100% aventure
+   16. 💩 la fabrique a jeux et a buzz / figaro visit britain
+   17. 💩 la fabrique a jeux et a buzz / M6 mozaic visa pour le monde
+   18. 💩 la fabrique a jeux et a buzz / leclerc fete drive
+   19. 💩 la fabrique a jeux et a buzz / saint james mojito
+   20. 🔗 la fabrique a jeux et a buzz / M6 mozaic rock
+   21. 💩 la fabrique a jeux et a buzz / Le club figaro golf
+   22. ml architecture
+   23. argus
+   24. 🖼️ Social shaker
+   25. 🖼️ Eptica
+   26. bagel road
+   27. kernix / mad lords     🚨🚨🚨 Y'a des lisez wam
+   28. kernix / cado          🚨🚨🚨 Y'a des lisez wam
+   29. kernix / prestashop    🚨🚨🚨 Y'a des lisez wam
+   30. 🖼️ Ergelis
+   31. 🖼️🔗 Trait tendance
+   32. 🖼️ BTP Consultants
+   33. 3wa
        1. Articles de blog
        2. Photos élèves
-   35. Champagne pascal picard
+   34. Champagne pascal picard
    35. 🖼️🎞️ Champagne didier Lapie
    36. 💩 Oclock
    37. ⏩ La passerelle
