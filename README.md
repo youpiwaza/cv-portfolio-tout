@@ -67,8 +67,8 @@ SST des ressources.
    21. ✅👔🔲 la fabrique a jeux et a buzz / Le club figaro golf
    22. ✅🖼️🔲👥💬 ml architecture
    23. ✅🖼️🔲👥💬 argus / 321 auto
-   24. 🖼️ Social shaker
-   25. 🖼️ Eptica
+   24. ✅👔🔲 Social shaker
+   25. ✅👔🔲 Eptica
    26. bagel road
    27. kernix / mad lords     🚨🚨🚨 Y'a des lisez wam
    28. kernix / cado          🚨🚨🚨 Y'a des lisez wam
