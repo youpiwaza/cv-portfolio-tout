@@ -21,13 +21,6 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-         1. masamune--prestashop--site-vitrine--INDEX-sujet
-         1. masamune--mad-lords--site--INDEX-sujet
-         1. masamune--cado--site--INDEX-sujet
-         1. masamune--bagel-road--site--INDEX-sujet
-         1. masamune--argus--site-321-auto--INDEX-sujet
-         1. masamune--ml-architecture--site--INDEX-sujet
-         1. masamune--fabrique-jeux-buzz--m6-mozaic-rock--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -41,7 +34,7 @@ SST des ressources.
          2. 🎞️ [youtoob](https://www.youtube.com/watch?v=3TrCNIH9fBQ)
       3. ✅🖼️🔲👥💬 eggs / refonte-site
       4. ✅✨🔲👥💬 eggs / kenzo / flowertag
-         1. 🎞️ [youtoob](https://www.youtube.com/watch?v=V4PWrp8cTGw) 
+         1. 🎞️ [youtoob](https://www.youtube.com/watch?v=V4PWrp8cTGw)
       5. ✅✨🔲👥💬 eggs / clairefontaine / mini-jeux
          1. 🎞️ [youtoob](https://www.youtube.com/watch?v=rwGpCL2PV6I)
       6. ✅✨🔲👥💬 eggs / voyage / mois-saveur
@@ -81,9 +74,10 @@ SST des ressources.
    31. ✅👔🔲🔗 Trait tendance
    32. ✅👔🔲 BTP Consultants
    33. ✅👔🔲 3wa
-       1. Articles de blog
-       2. Photos élèves
-   34. Champagne pascal picard
+       1. ✅🖼️👥💬 Articles de blog
+       2. ✅🖼️👥💬 Photos élèves
+   34. ✅✨🔲👥💬 Champagne pascal picard
+       1. 🎞️ [youtoob](XXX)
    35. 🖼️🎞️ Champagne didier Lapie
    36. 💩 Oclock
    37. ⏩ La passerelle
