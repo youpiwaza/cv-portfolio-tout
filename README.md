@@ -21,6 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
+         1. masamune--prestashop--site-vitrine--INDEX-sujet
          1. masamune--mad-lords--site--INDEX-sujet
          1. masamune--cado--site--INDEX-sujet
          1. masamune--bagel-road--site--INDEX-sujet
@@ -75,11 +76,11 @@ SST des ressources.
    26. ✅🖼️🔲👥💬 bagel road
    27. ✅🖼️🔲👥💬 kernix / cado
    28. ✅🖼️🔲👥💬 kernix / mad lords
-   29. kernix / prestashop    🚨🚨🚨 Y'a des lisez wam
-   30. 🖼️ Ergelis
-   31. 🖼️🔗 Trait tendance
-   32. 🖼️ BTP Consultants
-   33. 3wa
+   29. ✅🖼️🔲👥💬 kernix / prestashop
+   30. ✅👔🔲 Ergelis
+   31. ✅👔🔲🔗 Trait tendance
+   32. ✅👔🔲 BTP Consultants
+   33. ✅👔🔲 3wa
        1. Articles de blog
        2. Photos élèves
    34. Champagne pascal picard
