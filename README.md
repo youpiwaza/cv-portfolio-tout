@@ -60,13 +60,13 @@ SST des ressources.
    12. ✅🖼️🔲👥💬 medialist
    13. ✅🖼️🔲👥💬 vinci immobilier
    14. ✅🖼️🔲👥💬 creperie framboise
-   15. 🚀 💩 la fabrique a jeux et a buzz / M6 mozaic 100% aventure
-   16. 💩 la fabrique a jeux et a buzz / figaro visit britain
-   17. 💩 la fabrique a jeux et a buzz / M6 mozaic visa pour le monde
-   18. 💩 la fabrique a jeux et a buzz / leclerc fete drive
-   19. 💩 la fabrique a jeux et a buzz / saint james mojito
+   15. ✅👔🔲 la fabrique a jeux et a buzz / M6 mozaic 100% aventure
+   16. ✅👔🔲 la fabrique a jeux et a buzz / figaro visit britain
+   17. ✅👔🔲 la fabrique a jeux et a buzz / M6 mozaic visa pour le monde
+   18. ✅👔🔲 la fabrique a jeux et a buzz / leclerc fete drive
+   19. ✅👔🔲 la fabrique a jeux et a buzz / saint james mojito
    20. 🔗 la fabrique a jeux et a buzz / M6 mozaic rock
-   21. 💩 la fabrique a jeux et a buzz / Le club figaro golf
+   21. ✅👔🔲 la fabrique a jeux et a buzz / Le club figaro golf
    22. ml architecture
    23. argus
    24. 🖼️ Social shaker
