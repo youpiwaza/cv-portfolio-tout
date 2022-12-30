@@ -21,7 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-         1. masamune--thibault-ludwig--site--INDEX-sujet
+         2. masamune--thibault-ludwig--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -29,28 +29,28 @@ SST des ressources.
       5. 👔 Entreprise
    2. ✅🖼️👥💬🔲 masamune / champagne-bonnevie-bocart
    3. ✅👔🔲 eggs
-      1. ✅✨🔲👥💬 eggs / mattel / hotwheels-adrenaline
+      1. ✅🖼️🔲👥💬 eggs / areva / patchwork
+      2. ✅✨🔲👥💬 eggs / mattel / hotwheels-adrenaline
          1. ✅ Captures d'écran anciennes vidéos > Regrouper les images en une
          2. 🎞️ [youtoob](https://www.youtube.com/watch?v=3TrCNIH9fBQ)
-      2. ✅🖼️🔲👥💬 eggs / refonte-site
-      3. ✅✨🔲👥💬 eggs / kenzo / flowertag
+      3. ✅🖼️🔲👥💬 eggs / refonte-site
+      4. ✅✨🔲👥💬 eggs / kenzo / flowertag
          1. 🎞️ [youtoob](https://www.youtube.com/watch?v=V4PWrp8cTGw) 
-      4. ✅🖼️🔲👥💬 eggs / areva / patchwork
       5. ✅✨🔲👥💬 eggs / clairefontaine / mini-jeux
          1. 🎞️ [youtoob](https://www.youtube.com/watch?v=rwGpCL2PV6I)
       6. ✅✨🔲👥💬 eggs / voyage / mois-saveur
          1. 🎞️ [youtoob](https://www.youtube.com/watch?v=49n7qFvwgts)
       7. ✅🖼️🔲👥💬 eggs / la poste / intégration
-      8. ✅🖼️🔲👥💬 eggs / topicrem / appli-facebook
-      9. ✅🖼️🔲👥💬 eggs / nestle fondation / cartes
+      8. ✅🖼️🔲👥💬 eggs / nestle fondation / cartes
+      9. ✅🖼️🔲👥💬 eggs / topicrem / appli-facebook
       10. ✅🖼️🔲👥💬 eggs / groupemarck / basile boli
       11. ✅🖼️🔲👥💬 eggs / sofinco / café étoile
-   4. ✅🖼️🔲👥💬 champagne-didier-lapie
-   5. ✅🖼️🔲👥💬 acgm
-   6. vibrant-design
-   7. ~private-golf-key
-   8. ✅🖼️🔲👥💬 thibault ludwig
-   9. gmf
+   4. ✅🖼️🔲👥💬 acgm
+   5. ✅🖼️🔲👥💬 champagne-didier-lapie
+   6. ✅🖼️🔲👥💬 thibault ludwig
+   7. 🚀 gmf
+   8. vibrant-design
+   9. ~private-golf-key
    10. free tennis
    11. masamune blog
    12. vinci immobilier
