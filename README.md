@@ -21,6 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
+         1. masamune--argus--site-321-auto--INDEX-sujet
          1. masamune--ml-architecture--site--INDEX-sujet
          1. masamune--fabrique-jeux-buzz--m6-mozaic-rock--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
@@ -65,7 +66,7 @@ SST des ressources.
    20. ✅🖼️🔲👥💬🔗 la fabrique a jeux et a buzz / M6 mozaic rock
    21. ✅👔🔲 la fabrique a jeux et a buzz / Le club figaro golf
    22. ✅🖼️🔲👥💬 ml architecture
-   23. argus
+   23. ✅🖼️🔲👥💬 argus / 321 auto
    24. 🖼️ Social shaker
    25. 🖼️ Eptica
    26. bagel road
