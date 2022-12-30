@@ -21,11 +21,8 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
-            1.  INDEX-sujet
-         2. masamune--vinci-immobilier--conseil--INDEX-sujet
-         3. masamune--medialist--site--INDEX-sujet
-         4. masamune--free-tennis--site--INDEX-sujet
-         5. masamune--vibrant-design--site--INDEX-sujet
+         1. masamune--ml-architecture--site--INDEX-sujet
+         1. masamune--fabrique-jeux-buzz--m6-mozaic-rock--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -65,9 +62,9 @@ SST des ressources.
    17. ✅👔🔲 la fabrique a jeux et a buzz / M6 mozaic visa pour le monde
    18. ✅👔🔲 la fabrique a jeux et a buzz / leclerc fete drive
    19. ✅👔🔲 la fabrique a jeux et a buzz / saint james mojito
-   20. 🔗 la fabrique a jeux et a buzz / M6 mozaic rock
+   20. ✅🖼️🔲👥💬🔗 la fabrique a jeux et a buzz / M6 mozaic rock
    21. ✅👔🔲 la fabrique a jeux et a buzz / Le club figaro golf
-   22. ml architecture
+   22. ✅🖼️🔲👥💬 ml architecture
    23. argus
    24. 🖼️ Social shaker
    25. 🖼️ Eptica
