@@ -21,6 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
+         1. masamune--champagne-pascal-picard--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
@@ -77,7 +78,11 @@ SST des ressources.
        1. ✅🖼️👥💬 Articles de blog
        2. ✅🖼️👥💬 Photos élèves
    34. ✅✨🔲👥💬 Champagne pascal picard
-       1. 🎞️ [youtoob](XXX)
+       1. ⏳🎞️ [youtoob](https://www.youtube.com/watch?v=UMOikxHxYnM)
+          1. ⏳ Miniature youtube > l'image est prête mais besoin d'avoir un numéro de téléphone vérifié -_-
+          2. ✅ Edition de la vidéo
+             1. ✅ Virer le début et la fin
+             2. ✅Virer le son afin d'éviter les copyrights
    35. 🖼️🎞️ Champagne didier Lapie
    36. 💩 Oclock
    37. ⏩ La passerelle
