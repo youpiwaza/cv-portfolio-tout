@@ -21,11 +21,13 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
+         1. masamune--champagne-didier-lapie--site--INDEX-sujet
          1. masamune--champagne-pascal-picard--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
          1. _carre--
          2. _miniature--
       4. 🎞️ Vidéo
+         1. Miniature 1280 x 720 px
       5. 👔 Entreprise
    2. ✅🖼️👥💬🔲 masamune / champagne-bonnevie-bocart
    3. ✅👔🔲 eggs
