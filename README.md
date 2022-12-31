@@ -21,6 +21,7 @@ SST des ressources.
          1. 1200px de largeur, sauvegardées en png
       2. 💬 Rennomage des fichiers
          1. masamune--boite--projet--INDEX-sujet
+         1. masamune--effy-art-tattoo--site--INDEX-sujet
          1. masamune--champagne-didier-lapie--site--INDEX-sujet
          1. masamune--champagne-pascal-picard--site--INDEX-sujet
       3. 🔲 Images carrées & miniatures à la taille wordpress recommandée
@@ -96,21 +97,25 @@ SST des ressources.
    39. ✅✨🔲👥💬 Refonte serveur
        1. ✅ Réutilisation sur autres projets
        2. ✅ Pas de captures je pense, chaud de refaire tourner en local sur un conteneur ssh ok ?
-   40. 🚀 Effy art tattoo
-       1. Dupliquer l'accueil afin de rajouter les blocs retirés
+   40. ✅✨🔲👥💬 Effy art tattoo
+       1. ✅ Dupliquer l'accueil afin de rajouter les blocs retirés
+       2. ⏳🎞️ [youtoob](https://www.youtube.com/watch?v=A_pDQ4P956M)
+          1. ⏳ Miniature youtube > l'image est prête mais besoin d'avoir un numéro de téléphone vérifié -_-
+          2. ✅ Edition de la vidéo
+             1. ✅ Virer le début et la fin
    41. 🌱 PB Modélisme
-5. Manque masse de gras
-   1. Reprendre des images de la marque direct ça sera moins crade lel
-   2. Faire des dossiers pour les boites dans lesquelles j'ai bossé, afin d'éviter les doublons
-   3. Dossier ou pas d'images pour les projets > suffixer rieng
-   4. 🖼️ Si possible chopay les images en png clean
-   5. 🎞️ Si possible faire une vidéo via obs
-6. Cleaner images
-   1. Dédoublonner les images (miniatures wp alakon)
-   2. Vérifier sites encore en place > Captures propres en png
-   3. Faire des images carrées pour les miniatures
+5. ✅ Manque masse de gras
+   1. ✅ Reprendre des images de la marque direct ça sera moins crade lel
+   2. ✅ Faire des dossiers pour les boites dans lesquelles j'ai bossé, afin d'éviter les doublons
+   3. ✅ Dossier ou pas d'images pour les projets > suffixer rieng
+   4. ✅ 🖼️ Si possible chopay les images en png clean
+   5. ✅ 🎞️ Si possible faire une vidéo via obs
+6. 🚀 Cleaner images
+   1. ✅ Dédoublonner les images (miniatures wp alakon)
+   2. ✅ Vérifier sites encore en place > Captures propres en png
+   3. ✅ Faire des images carrées pour les miniatures
       1. Voir tailles images aperçu wordpress
-   4. Passer à la moulinette d'optimisation
+   4. 🚀 Passer à la moulinette d'optimisation
    5. Renommer proprement YYMM-masamune-client-projet-description
    6. Ajouter watermark
    7. Versionner une fois la merde virée
