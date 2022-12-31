@@ -85,13 +85,15 @@ SST des ressources.
           2. ✅ Edition de la vidéo
              1. ✅ Virer le début et la fin
              2. ✅Virer le son afin d'éviter les copyrights
-   35. 🖼️🎞️ Champagne didier Lapie
-   36. 💩 Oclock
-   37. ⏩ La passerelle
-       1. Articles de blog
-       2. Photos élèves
-   38. 💩 Bilans service
-   39. ⏩ Refonte serveur
+   35. ✅✨🔲👥💬 Champagne didier Lapie
+       1. ⏳🎞️ [youtoob](https://www.youtube.com/watch?v=sCCFaQeFawc)
+          1. ⏳ Miniature youtube > l'image est prête mais besoin d'avoir un numéro de téléphone vérifié -_-
+          2. ✅ Edition de la vidéo
+             1. ✅ Virer le début et la fin
+   36. ✅👔🔲💩 Oclock
+   37. ✅👔🔲 La passerelle
+   38. ✅👔🔲 Bilans service
+   39. 🚀 Refonte serveur
        1. Réutilisation sur autres projets
        2. Pas de captures je pense, chaud de refaire tourner en local sur un conteneur ssh ok ?
    40. ⏩ Effy art tattoo
