@@ -93,10 +93,11 @@ SST des ressources.
    36. ✅👔🔲💩 Oclock
    37. ✅👔🔲 La passerelle
    38. ✅👔🔲 Bilans service
-   39. 🚀 Refonte serveur
-       1. Réutilisation sur autres projets
-       2. Pas de captures je pense, chaud de refaire tourner en local sur un conteneur ssh ok ?
-   40. ⏩ Effy art tattoo
+   39. ✅✨🔲👥💬 Refonte serveur
+       1. ✅ Réutilisation sur autres projets
+       2. ✅ Pas de captures je pense, chaud de refaire tourner en local sur un conteneur ssh ok ?
+   40. 🚀 Effy art tattoo
+       1. Dupliquer l'accueil afin de rajouter les blocs retirés
    41. 🌱 PB Modélisme
 5. Manque masse de gras
    1. Reprendre des images de la marque direct ça sera moins crade lel
