@@ -2,6 +2,7 @@
 
 L'édition de la vidéo à été faite sur le site de youtube directement :
 
+- 🎞️ [youtoob](https://www.youtube.com/watch?v=UMOikxHxYnM)
 - Virer le début et la fin (capture OBS)
 - Virer le son afin d'éviter les copyright du youtube qui traîne derrière
 

@@ -115,8 +115,8 @@ SST des ressources.
    2. ✅ Vérifier sites encore en place > Captures propres en png
    3. ✅ Faire des images carrées pour les miniatures
       1. Voir tailles images aperçu wordpress
-   4. 🚀 Passer à la moulinette d'optimisation
-   5. Renommer proprement YYMM-masamune-client-projet-description
+   4. ✅ Passer à la moulinette d'optimisation
+   5. ✅ Renommer proprement YYMM-masamune-client-projet-description
    6. Ajouter watermark
    7. Versionner une fois la merde virée
    8. 🎞️ Vidéos sur youtoob
