@@ -27,7 +27,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }, 500);
 
   // * Redirections
-  const pdfUri = '191112-CV-Maxime-Chevasson-Dev-Web-Fullstack-w-links.pdf';
+  const pdfUri = '230202-CV-Maxime-Chevasson-Dev-Web-Fullstack---avec-lieng.pdf';
   
   // Mobile
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
