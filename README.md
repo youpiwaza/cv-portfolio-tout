@@ -6,9 +6,18 @@ SST des ressources.
 
 ## ♻️⬆️ Date de dernière mise à jour
 
-12/2022
+02/2022
 
 ## 🚀 Taf en cours sinon jme sperse
+
+Le PDF
+
+1. ✅ Mettre à jour les textes
+2. 🚀 Mettre à jour les liens (PDF escape)
+3. Mettre à jour le SEO fallback (nom fichier)
+4. Uploader le bousin
+
+Les sites
 
 1. Maj `etudes-employeurs-realisations`
    1. Faire wallapper moche qui boucle sur paint
@@ -110,16 +119,15 @@ SST des ressources.
    3. ✅ Dossier ou pas d'images pour les projets > suffixer rieng
    4. ✅ 🖼️ Si possible chopay les images en png clean
    5. ✅ 🎞️ Si possible faire une vidéo via obs
-6. 🚀 Cleaner images
+6. ✅ Cleaner images
    1. ✅ Dédoublonner les images (miniatures wp alakon)
    2. ✅ Vérifier sites encore en place > Captures propres en png
    3. ✅ Faire des images carrées pour les miniatures
       1. Voir tailles images aperçu wordpress
    4. ✅ Passer à la moulinette d'optimisation
    5. ✅ Renommer proprement YYMM-masamune-client-projet-description
-   6. Ajouter watermark
-   7. Versionner une fois la merde virée
-   8. 🎞️ Vidéos sur youtoob
+   6. ✅ Versionner une fois la merde virée
+   7. ✅🎞️ Vidéos sur youtoob
 7. Pas oublier de maj je seo fall back sur l'index
 8. 🌱 EVENTUELLEMENT refaire un gulp pour minimiser les bousins
 9. Supprimer les anciens repos cv pour éviter la confusion
