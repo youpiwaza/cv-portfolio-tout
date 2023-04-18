@@ -1,6 +1,6 @@
 console.log('✨ Celui/celle qui lit ça est trop mignon/ne ✨');
 console.log('https://www.youtube.com/watch?v=PjCDSYCpwA4');
-console.log('Sources if you wanna check > https://github.com/youpiwaza/cv-etudes-xp-pro');
+console.log('Sources if you wanna check > https://github.com/youpiwaza/cv-portfolio-tout/tree/main/cv/xp');
 
 window.addEventListener('DOMContentLoaded', () => {
   //// Font face observer

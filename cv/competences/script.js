@@ -1,6 +1,6 @@
 console.log('Celui qui lit ça est un neeb :D');
 console.log('https://www.youtube.com/watch?v=QwdbFNGCkLw');
-console.log('Sources if you wanna check > https://github.com/youpiwaza/simple-type-one-page');
+console.log('Sources if you wanna check > https://github.com/youpiwaza/cv-portfolio-tout/tree/main/cv/competences');
 
 window.addEventListener('DOMContentLoaded', () => {
   const buttonHTML = document.getElementById('staph');
@@ -17,11 +17,11 @@ window.addEventListener('DOMContentLoaded', () => {
   // When typing end
   const typingEnd = () => {
     // Remove kat gif and fixed stuff
-    const fixedHTML = document.getElementById('fixed');
+    const fixedHTML         = document.getElementById('fixed');
     fixedHTML.style.opacity = 0;
 
     // Remove typed js cursor
-    const typedCursor = document.getElementsByClassName('typed-cursor')[0];
+    const typedCursor         = document.getElementsByClassName('typed-cursor')[0];
     typedCursor.style.display = 'none';
 
     // Remove forced scroll
@@ -32,10 +32,10 @@ window.addEventListener('DOMContentLoaded', () => {
   // Display original text & hide typed one
   const displayAll = () => {
     const baseStringsHTML = document.getElementById('typed-strings');
-    const typedHTML = document.getElementById('typed');
+    const typedHTML       = document.getElementById('typed');
 
     baseStringsHTML.style.display = 'block';
-    typedHTML.style.display = 'none';
+    typedHTML      .style.display = 'none';
   };
 
 
@@ -49,8 +49,8 @@ window.addEventListener('DOMContentLoaded', () => {
     buttonHTML.removeEventListener('click', onStaph);
 
     // Remove UI/UX text
-    const uiUxHTML = document.getElementById('UIUX');
-    uiUxHTML.style.opacity = 0;
+    const uiUxHTML          = document.getElementById('UIUX');
+    uiUxHTML.style.opacity  = 0;
 
     //// Kat magician animation
     // Need to replace video (webm opti) with an image
@@ -104,9 +104,9 @@ window.addEventListener('DOMContentLoaded', () => {
 
   // Go typing
   new Typed('#typed', {
-    onComplete: typingEnd,
-    stringsElement: '#typed-strings',
-    typeSpeed: 1,
+    onComplete     : typingEnd,
+    stringsElement : '#typed-strings',
+    typeSpeed      : 1,
   });
 
 

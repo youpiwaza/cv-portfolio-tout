@@ -6,10 +6,10 @@
 /* roboto-condensed-regular - latin */
 /* https://github.com/bramstein/fontfaceobserver */
 @font-face {
-  font-display: swap;
-  font-family: 'Roboto Condensed';
-  font-style: normal;
-  font-weight: 400;
+  font-display : swap;
+  font-family  : 'Roboto Condensed';
+  font-style   : normal;
+  font-weight  : 400;
   src: url('../assets/fonts/roboto-condensed/roboto-condensed-v18-latin-regular.eot'); /* IE9 Compat Modes */
   src: local('Roboto Condensed'), local('RobotoCondensed-Regular'),
       url('../assets/fonts/roboto-condensed/roboto-condensed-v18-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
@@ -25,54 +25,48 @@
 }
 
 @-webkit-keyframes rainbowZ {
-    0% {background-position:0% 0%}
-    100% {background-position:90% 100%}
+    0%    {background-position:0% 0%}
+    100%  {background-position:90% 100%}
 }
 @-moz-keyframes rainbowZ {
-    0% {background-position:0% 0%}
-    100% {background-position:90% 100%}
+    0%    {background-position:0% 0%}
+    100%  {background-position:90% 100%}
 }
 @keyframes rainbowZ {
-    0% {background-position:0% 0%}
-    100% {background-position:90% 100%}
+    0%    {background-position:0% 0%}
+    100%  {background-position:90% 100%}
 }
 
 html {
   /* Rainbow ! */
-  background-color: #3b9c9c;
-  background: linear-gradient(140deg, #ea2115, #d5721c, #d5bc1f, #3d9970, #0074d9, #b10dc9, #f012be, #0074d9, #001f3f);
-  background-size: 1400% 1400%;
+  background-color : #3b9c9c;
+  background       : linear-gradient(140deg, #ea2115, #d5721c, #d5bc1f, #3d9970, #0074d9, #b10dc9, #f012be, #0074d9, #001f3f);
+  background-size  : 1400% 1400%;
 
-  color: #fff5ee;
+  color       : #fff5ee;
   /* https://github.com/bramstein/fontfaceobserver */
-  font-family: Arial, sans-serif;
-  font-size: 18px;
-  min-height: 100vh;
-  transition: all .3s;
+  font-family : Arial, sans-serif;
+  font-size   : 18px;
+  min-height  : 100vh;
+  transition  : all .3s;
 
   /* Rainbow animation */
-  -webkit-animation: rainbowZ 10s ease;
-  -moz-animation: rainbowZ 10s ease;
-  animation: rainbowZ 10s ease;
+  -webkit-animation : rainbowZ 10s ease;
+  -moz-animation    : rainbowZ 10s ease;
+  animation         : rainbowZ 10s ease;
 
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards;
+  animation-iteration-count : 1;
+  animation-fill-mode       : forwards;
 }
 
 body {
   /* https://www.transparenttextures.com/ */
-  background: url('assets/images/bg.png') repeat;
-  display: flex;
-  font-size: 1em;
-  justify-content: center;
-  line-height: 1.4em;
-  min-height: 100vh;
-}
-
-h1, h2, h3 {
-  letter-spacing: 0.1em;
-  line-height: 1.2em;
-  text-transform: uppercase;
+  background      : url('assets/images/bg.png') repeat;
+  display         : flex;
+  font-size       : 1em;
+  justify-content : center;
+  line-height     : 1.4em;
+  min-height      : 100vh;
 }
 
 a,
@@ -85,24 +79,39 @@ a:hover {
   color: #ff9659;
 }
 
+em {
+  /** Y TF not */
+  color: deeppink;
+}
+
+h1, h2, h3 {
+  letter-spacing : 0.1em;
+  line-height    : 1.2em;
+  text-transform : uppercase;
+}
+
+strong {
+  color: cyan;
+}
+
 .container {
-  padding: 2.5em .5em;
-  max-width: 920px;
-  width: 95%;
+  padding   : 2.5em .5em;
+  max-width : 920px;
+  width     : 95%;
 }
 
 #fixed {
-  right: 20px;
-  position: fixed;
-  top: 10%;
-  transition: opacity .3s;
+  position   : fixed;
+  right      : 20px;
+  top        : 10%;
+  transition : opacity .3s;
 }
 
 #kat {
-  display: block;
-  height: auto;
-  margin-bottom: 1em;
-  width: 100px;
+  display       : block;
+  height        : auto;
+  margin-bottom : 1em;
+  width         : 100px;
 }
 
 
@@ -213,7 +222,7 @@ a:hover {
   /* Kats placement */
   #fixed {
     left: 20px;
-    top: 20%;
+    top : 20%;
   }
 
   #kat {

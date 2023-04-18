@@ -66,6 +66,14 @@ em {
   color: #9EAEC5;
 }
 
+/* Ne pas faire de retours à la ligne sur la première colonne */
+td {
+  padding: 0.5em 1em;
+}
+td:first-child {
+  white-space: nowrap;
+}
+
 td:nth-child(2) {
   padding-left: 1em;
 }

@@ -1,4 +1,5 @@
 console.log('script.js');
+console.log('Sources if you wanna check > https://github.com/youpiwaza/cv-portfolio-tout/tree/main/cv/index--cv-seo-fallback-and-js-redirect-to-pdf');
 
 window.addEventListener('DOMContentLoaded', () => {
   // * Font face observer

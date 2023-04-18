@@ -31,6 +31,8 @@ table>tr>td>strong{📅 Période & durée}^td{XXX}^tr>td>strong{Poste}^td{💼 D
 ```
 
 ---
+---
+---
 
 ## ✨ Pour site vitrine > Portfolio
 

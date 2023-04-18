@@ -79,9 +79,10 @@ Au format Markdown.
          2. `YYYY / Client / Poste`
       3. 📅 Période & durée
          1. `09/2022 - 2 jours`
+         2. `01/2022 > 01/2023 - 1 an`
       4. Poste
          1. 💼 `Développeur web full stack`
-         1. 🎓 `Professeur`
+         2. 🎓 `Professeur`
       5. 🎯 Missions
          1. Une ligne rapide
          2. Si besoin liste technologie > Kwakjéfé
@@ -114,6 +115,8 @@ Au format Markdown.
 ---
 
 ### Au CV
+
+⚡️ Ready à c/c
 
 1. Mise à jour du PDF
    1. `/_docs/craft-and-tests/`
