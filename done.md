@@ -1,5 +1,9 @@
 # Kwakéfé
 
+04/2022
+
+1. ✅ Procédure ajout au CV/Folio
+
 02/2022
 
 Le PDF
