@@ -2,9 +2,9 @@
 
 List of pending tasks.
 
-1. 🏭 Boilerplates
-   1. entreprise
-   2. projet
+1. ✅🏭 Boilerplates
+   1. ✅ entreprise
+   2. ✅ projet
 2. Ajouter PB au folio, permet de vérifier que tout est good
 3. Récupérer l'ensemble des textes de l'ancien site vitrine
 4. Ajouter Evogue > Cours fin mars 2023

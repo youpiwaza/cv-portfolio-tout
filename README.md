@@ -77,9 +77,9 @@ Au format Markdown.
          2. `YYYY / Client / Poste`
       3. 📅 Période & durée
          1. `09/2022 - 2 jours`
-      4. 💼🎓 Poste
-         1. `Développeur web full stack`
-         1. `Professeur`
+      4. Poste
+         1. 💼 `Développeur web full stack`
+         1. 🎓 `Professeur`
       5. 🎯 Missions
          1. Une ligne rapide
          2. Si besoin liste technologie > Kwakjéfé
@@ -106,7 +106,7 @@ Au format Markdown.
          4. 💬 SEO
          5. 🎓 Prof
             1. 🙋‍♂️ Présentiel
-            2. 📹 Visio
+            2. 🌐 Visio
             3. 📝 Rédaction de contenus pédagogiques
 
 ---
@@ -115,12 +115,12 @@ Au format Markdown.
 
 1. Mise à jour du PDF
    1. `/_docs/craft-and-tests/`
-2. Ajout du PDF dans `assets/pdf`
-3. Ajout du PDF à la racine de  ce projet
-4. Mise à jour de `/index`
-5. Mise à jour de `/xp`
-6. Mise à jour de `/competences`
-7. Upload sur masamune.fr/cv
+   2. Ajout du PDF dans `assets/pdf`
+   3. Ajout du PDF à la racine de  ce projet
+   4. Mise à jour de `/index`
+2. Mise à jour de `/xp`
+3. Mise à jour de `/competences`
+4. Upload sur masamune.fr/cv
 
 ---
 
@@ -162,6 +162,7 @@ hey
 - Unicorns 🦄
 - Magic ✨
 - Some paprika 🌶️
+- Love 💖
 
 ---
 
