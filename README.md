@@ -49,13 +49,18 @@ Les sites
 
 | Emplacement                    | Kwaksé                                                                       |
 |                             ---|                                                                           ---|
-| `temp/tas-de-merde.../`        | Plusieurs dossiers contenant des images de projets                           |
-| `temp/.../auld`                | Anciens CVs                                                                  |
-| `temp/.../Refonte CV fin 2019` | Toshop du PDF                                                                |
-| **^ dla merde**                | **Eul prop' v**                                                              |
-| `assets/images/portfolio`      | Les images relatives au portfolio : captures d'écran des sites clients, etc. |
+| `/_docs/craft-and-tests/`      | Toshop du CV actuel                                                          |
+| `/_old/`                       | Anciens CVs                                                                  |
+| `assets/images/_masamune`      | Logos, FF, favicon                                                           |
+| `assets/images/cv`             | GIFs chats (CV compétences)                                                  |
+| `assets/images/portfolio`      | Les images relatives au portfolio                                            |
+| `[...]/portfolio/entreprises`  | Les images relatives aux entreprises : logos de base & carrés                |
+| `[...]/portfolio/projets`      | Les textes, images **et vidéos** relatives aux projets : MD & screenshots    |
 | `assets/pdf`                   | Sauvegarde des versions pdf du CV                                            |
-| `yay`                          | fun                                                                          |
+| `cv/`                          | Les 3 parties du CV                                                          |
+| `cv/competences`               | La partie compétences                                                        |
+| `cv/index[...]`                | Redirection vers PDF + html fallback pour robots                             |
+| `cv/xp`                        | La partie études & expériences pro                                           |
 
 ## 👥 Pour le moment caypaumay
 
