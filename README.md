@@ -12,6 +12,8 @@ SST des ressources.
 
 🏭 Dupliquer boilerplates `entreprises/` & `projets/`
 
+Renommage des fichiers via [AntRenamer](https://antp.be/software/renamer/fr)
+
 ### 💬🖼️🎞️ Création des ressources
 
 #### Arborescence
