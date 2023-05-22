@@ -23,11 +23,11 @@ Renommage des fichiers via [AntRenamer](https://antp.be/software/renamer/fr)
       1. 🖼️ `/non-compresse`
          1. Logo de base
       2. 🖼️ `_carre--nom-entreprise.png`, 512 x 512
-      3. 🖼️ `_miniature--nom-entreprise.png`, XXX x 512
+      3. 🖼️ `_miniature--nom-entreprise.png`, ~1200 x 512
       4. 📝 `README.md`, t'es qui vous, historique si multiples projets
 2. `cv-portfolio-tout/assets/images/portfolio/projets`
    1. `/YYMM--nom-entreprise--nom-projet`, date de fin de projet
-   1. 👥 `/YYMM--rieng--nom-entreprise--nom-projet`, si aucune ressources
+   2. 👥 `/YYMM--rieng--nom-entreprise--nom-projet`, si aucune ressources
       1. 🖼️ `/images`
          1. `/non-compresse`
          2. `/screenshots`
@@ -47,7 +47,7 @@ Renommage des fichiers via [AntRenamer](https://antp.be/software/renamer/fr)
    1. Logo
       1. Vanilla
       2. Miniature
-      3. Carré
+      3. Carré > 👌 Pas hésiter à virer des éléments avant capture pour bien centrer & lisibilité
 2. Projet
    1. Screenshots
       1. Non compressés
