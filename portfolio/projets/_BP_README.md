@@ -27,6 +27,7 @@ Nature des travaux
 — Automatisation
 — Design & graphisme
 — Développement web
+— Enseignement
 — Gestion de projet
 — Infrastructure As Code
 — Infrastructure serveur
@@ -50,6 +51,8 @@ Poste
 — — Lead Full stack
 — Formateur
 — Professeur
+— — Présentiel
+— — Distanciel
 
 Technologies
 — Ansible
@@ -65,6 +68,7 @@ Technologies
 — MySQL
 — Nginx
 — NoSQL
+— OBS Studio
 — PHP
 — — PHP 3
 — — PHP 4
@@ -75,10 +79,11 @@ Technologies
 — Thème Divi
 — WSL2
 
-Type de projet
+Type de projet / cours
 — Administration, CRM
 — E-commerce
 — Infrastructure serveur
+— Initiation
 — Refonte de site
 — Site vitrine
 
@@ -165,6 +170,8 @@ ligne 2
 ---
 
 ## 🎯 Mission / s
+
+👨‍🏫 Professorat
 
 👔 Réalisé pour le compte du client EUL_CLIENT qui est parfois bien sympa.
 
