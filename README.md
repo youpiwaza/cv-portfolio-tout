@@ -31,13 +31,18 @@ Renommage des fichiers via [AntRenamer](https://antp.be/software/renamer/fr)
       1. 🖼️ `/images`
          1. `/non-compresse`
          2. `/screenshots`
-            1. 🖼️🖼️🖼️ `nom-entreprise--nom-projet--type-projet--INDEX-nom-page.png`, 1200 x XXX
+            1. 🖼️ `nom-entreprise--nom-projet--type-projet--INDEX-nom-page.png`, 1200 x XXX
       2. 🎞️ `/videos`
          1. `nom-entreprise--video--nom-projet--type-projet.mkv`
             1. OBS Studio, 1280x720, 30 IPS, Pas de son
       3. 🖼️ `_carre--nom-entreprise--nom-projet--type-projet.png`, 512 x 512
+         1. Si besoin de rajouter titre
+            1. Roboto Condensed, bold, 64pt, calque centré, #49cced
+            2. Contour noir 7px
       4. 🖼️ `_miniature--nom-entreprise--nom-projet--type-projet.png`, 1200 x 600
+         1. Idem, 90pt de taille de police
       5. 📝 `README.md`, Détail du projet
+         1. 🏭 `cv-portfolio-tout/portfolio/projets/_BP_README.md`
 
 ---
 
