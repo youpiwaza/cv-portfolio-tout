@@ -26,9 +26,14 @@ Nature des travaux
 — Administration serveur
 — Automatisation
 — Design & graphisme
+— — Prise de photos
+— — Prise de vidéos
+— — Retouche de photos
+— — Retouche de vidéos
 — Développement web
 — Enseignement
 — Gestion de projet
+— Hébergement web
 — Infrastructure As Code
 — Infrastructure serveur
 — Maintenance
@@ -50,6 +55,7 @@ Poste
 — — Lead Front
 — — Lead Full stack
 — Formateur
+— Photographe
 — Professeur
 — — Présentiel
 — — Distanciel
@@ -76,7 +82,8 @@ Technologies
 — Traefik
 — Ubuntu / Bash
 — WordPress
-— Thème Divi
+— — Thème Divi
+— — WooCommerce
 — WSL2
 
 Type de projet / cours

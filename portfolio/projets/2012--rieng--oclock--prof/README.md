@@ -68,7 +68,6 @@ Logo de l'entreprise : "O'clock" écrit en blanc cassay sur fond vert
 
 ---
 
-------------------------------------------- v 🌱 TODO 🌱 v ----------------------------------------
 ## 4 cases résumé / liens
 
 ```html
