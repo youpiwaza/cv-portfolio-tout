@@ -26,13 +26,14 @@ Renommage des fichiers via [AntRenamer](https://antp.be/software/renamer/fr)
       3. 🖼️ `_miniature--nom-entreprise.png`, ~1200 x 512
       4. 📝 `README.md`, t'es qui vous, historique si multiples projets
 2. `cv-portfolio-tout/assets/images/portfolio/projets`
-   1. `/YYMM--nom-entreprise--nom-projet`, date de fin de projet
-   2. 👥 `/YYMM--rieng--nom-entreprise--nom-projet`, si aucune ressources
+   1. 👥 `/YYMM--rieng--nom-entreprise--nom-projet`, si aucune ressources
+      1. `cv-portfolio-tout/portfolio/projets/__images bp pour vide`
+   2. `/YYMM--nom-entreprise--nom-projet`, date de fin de projet
       1. 🖼️ `/images`
          1. `/non-compresse`
          2. `/screenshots`
             1. 🖼️ `nom-entreprise--nom-projet--type-projet--INDEX-nom-page.png`, 1200 x XXX
-      2. 🎞️ `/videos`
+      2. 🎞️ `/videos`****
          1. `nom-entreprise--video--nom-projet--type-projet.mkv`
             1. OBS Studio, 1280x720, 30 IPS, Pas de son
       3. 🖼️ `_carre--nom-entreprise--nom-projet--type-projet.png`, 512 x 512

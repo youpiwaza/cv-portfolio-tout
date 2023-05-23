@@ -22,32 +22,65 @@ MM/YYYY > MM/YYYY - XXX mois
 
 🔥👷 Ne conserver que les catégories utilisées
 
-1. Nature des travaux
-   1. Design & graphisme
-   2. Développement web
-   3. Gestion de projet
-   4. Nettoyage de code
-   5. Renfort d'équipe
-2. Poste
-   1. Chef de projet
-   2. Développeur web
-      1. CMS
-      2. Front
-      3. Full stack
-      4. Lead Front
-   3. Professeur
-3. Technologies
-    1. CSS
-    2. HTML
-    3. Javascript
-    4. PHP
-    5. WordPress
-       1. Thème Divi
-4. Type de projet
-    1. Administration, CRM
-    2. E-commerce
-    3. Refonte de site
-    4. Site vitrine
+Nature des travaux
+— Administration serveur
+— Automatisation
+— Design & graphisme
+— Développement web
+— Gestion de projet
+— Infrastructure As Code
+— Infrastructure serveur
+— Maintenance
+— Migration de code
+— Nettoyage de code
+— Renfort d'équipe
+— Sécurité
+— Ubuntu
+
+Poste
+— Chef de projet
+— Conseil
+— Développeur web
+— — Back
+— — CMS
+— — DevOps
+— — Front
+— — Full stack
+— — Lead Front
+— — Lead Full stack
+— Formateur
+— Professeur
+
+Technologies
+— Ansible
+— Code Igniter
+— — Code Igniter 3
+— — Code Igniter 4
+— Composer
+— CSS
+— Docker
+— HTML
+— JavaScript
+— MariaDB
+— MySQL
+— Nginx
+— NoSQL
+— PHP
+— — PHP 3
+— — PHP 4
+— — PHP 8
+— Traefik
+— Ubuntu / Bash
+— WordPress
+— Thème Divi
+— WSL2
+
+Type de projet
+— Administration, CRM
+— E-commerce
+— Infrastructure serveur
+— Refonte de site
+— Site vitrine
 
 ---
 
