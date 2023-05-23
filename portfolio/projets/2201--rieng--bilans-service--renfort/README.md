@@ -79,7 +79,11 @@ Masamune / Bilans Service / Renfort d'équipe, débogage, migration, évolution
 
 Alt
 
-Beh le projet est confidentiel donc j'ai pas d'image donc j'ai fait un paint moche, pardon :3
+Textes "Renfort d'équipe" et "Bilans service" et "Pas d'image :(".
+
+Moi dans des bureaux parisiens avec d'autres gens, dans des bureaux, avec des écrans ou il y a marqué "code code". Y'a aussi la tour Effeil et l'Arc de triomphe mais on les voit pas bien avec les textes.
+
+Beh le projet est confidentiel donc j'ai pas d'image donc j'ai fait un paint moche, pardon :3.
 
 #### Logo entreprise
 
