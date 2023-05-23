@@ -1,5 +1,7 @@
 # Lisez wam du folio pour le site XXX.com
 
+------------------------------------------- v 🌱 TODO 🌱 v ----------------------------------------
+
 📝 Notes: XXX.
 
 ---
@@ -165,35 +167,13 @@ Détails techniques / prog.
 
 ---
 
-WordPress
+```html
+<h3>Technologie</h3>
+Détails.
+Détails.
 
-Choix du CMS le plus utilisé au monde pour des raisons de rapidité de mise en place, et administration déjà présente.
 
----
-
-Thème Divi
-
-Designs +- clés en main avec fort degré de personnalisation.
-
----
-
-Optimisations
-
-Amélioration des images en vu de conserver une bonne qualité, avec de bonnes performances.
-
-Mise en place de cache serveurs & navigateurs.
-
----
-
-Blocs personnalisés
-
-Suggestions de contenus types afin d'aider à se projeter, tout en gardant une bonne gestion du responsive.
-
----
-
-Plugins usuels
-
-Contact, Gestion des images, Google Maps, RGPD, Google Analytics, etc.
+```
 
 ---
 
