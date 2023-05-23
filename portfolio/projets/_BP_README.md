@@ -111,6 +111,92 @@ Capture d'écran du site PROJET
 
 ---
 
+## 4 cases résumé / liens
+
+🚨 Utiliser
+
+```html
+<h3>titre</h3>
+ligne 1
+ligne 2
+```
+
+🚨 Ne pas oublier de rajouter les liens
+
+```html
+<a href="https://huehue.com/" title="XXX" target="_blank">Site en ligne</a>
+```
+
+---
+
+## 🎯 Mission / s
+
+👔 Réalisé pour le compte du client EUL_CLIENT qui est parfois bien sympa.
+
+🙋 Description du projet en terme compréhensibles par les humains véritables
+
+Création d'une infrastructure serveur avancée en vue d'héberger mes clients.
+
+Le but était également de monter en compétence dans le domaine du DevOps.
+
+🚨 Ne pas rentrer dans le gros technique ici, mais plus dessous.
+
+🚨 Vérifier en mode texte à la fin qu'il n'y a pas d'ajout de balises alakon `<div><span>&nbsp;`
+
+---
+
+Nature des travaux
+Développement web
+Design & graphisme
+Gestion de projet
+
+Technologies
+HTML
+CSS
+PHP
+WordPress
+Thème Divi
+
+---
+
+## 👨‍💻 Développement
+
+Détails techniques / prog.
+
+---
+
+WordPress
+
+Choix du CMS le plus utilisé au monde pour des raisons de rapidité de mise en place, et administration déjà présente.
+
+---
+
+Thème Divi
+
+Designs +- clés en main avec fort degré de personnalisation.
+
+---
+
+Optimisations
+
+Amélioration des images en vu de conserver une bonne qualité, avec de bonnes performances.
+
+Mise en place de cache serveurs & navigateurs.
+
+---
+
+Blocs personnalisés
+
+Suggestions de contenus types afin d'aider à se projeter, tout en gardant une bonne gestion du responsive.
+
+---
+
+Plugins usuels
+
+Contact, Gestion des images, Google Maps, RGPD, Google Analytics, etc.
+
+---
+
 ## Contenus youtube
 
 L'édition de la vidéo à été faite sur le site de youtube directement :
