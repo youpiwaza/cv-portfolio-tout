@@ -98,15 +98,25 @@ Des photos de tattouages réalisés par Effy Art Tattoo, une geisha sur un dos c
 
 ---
 
-## Mission / s
+## 4 cases résumé / liens
 
-J'avais besoin de décompresser suite à un projet assez long dans la durée, alors j'ai fait un petit break en réalisant un **site professionnel complet** pour une bonne amie **tatoueuse**.
+```html
+<a href="https://effy-art-tattoo.com/" title="Tatoueuse sur Reims et alentours, styles réalistes, portraits, giger, jeux vidéos" target="_blank">Site en ligne</a>
+```
+
+---
+
+## 🎯 Mission / s
+
+Petit challenge personnel de réalisé un **site professionnel complet** one-page en moins de 2 jours.
+
+Mon choix s'est tourné vers une bonne amie **tatoueuse** qui avait ce besoin.
 
 Les principaux objectifs ont été de créer un **site moderne**, avec un **design percutant** et alternatif, mais également **administrable facilement**.
 
 Le tout sans oublier les **performances** ainsi que le **référencement naturel**.
 
-Egalement création d'un petit logo temporaire.
+Également création d'un petit logo temporaire.
 
 ---
 
@@ -119,6 +129,16 @@ HTML
 CSS
 WordPress
 Thème Divi
+
+---
+
+## 👨‍💻 Développement
+
+---
+
+Titre
+
+Description
 
 ---
 
