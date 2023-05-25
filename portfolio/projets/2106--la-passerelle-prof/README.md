@@ -89,9 +89,38 @@ Alt
 
 Logo de La passerelle, plusieurs boules blanches reliées entre elles, sur un fond de dégradé orange
 
+#### masamune--la-passerelle--generateur-exercices--01-enonce-exercice-sources-et-apercus.png
+
+Title
+
+Generateur d'exercices / Enoncé d'exercice en Markdown, et son rendu dynamique en HTML / HMR
+
+Alt
+
+Capture d'écran du generateur d'exercices créé pour la passerelle, contient VSCode qui affiche du Markdown, le terminal qui génère le HTML, ainsi que le rendu dans le navigateur
+
+#### masamune--la-passerelle--generateur-exercices--02-notes-pour-professeurs.png
+
+Title
+
+Generateur d'exercices / Notes afin d'accompagner les nouveaux professeurs dans leurs cours
+
+Alt
+
+Capture d'écran du generateur d'exercices créé pour la passerelle, avec de la documentation à l'attention des professeurs (notes, astuces, conseils)
+
+#### masamune--la-passerelle--generateur-exercices--03-documentation-creation-exercice.png
+
+Title
+
+Generateur d'exercices / Documentation exhaustive afin d'utiliser correctement le projet
+
+Alt
+
+Capture d'écran du generateur d'exercices créé pour la passerelle, documentation afin de prendre en main le projet
+
 ---
 
-------------------------------------------- v 🌱 TODO 🌱 v ----------------------------------------
 ## 4 cases résumé / liens
 
 🚨 Utiliser
@@ -179,21 +208,3 @@ Le morcellage permet également d'inclure plus ou moins d'instructions, de conse
 
 Pas mal d'automatisation au niveau des linters pour le code (énoncés & corrections).
 ```
-
----
-
-## Contenus youtube
-
-L'édition de la vidéo à été faite sur le site de youtube directement :
-
-- 🎞️ [youtoob](https://www.youtube.com/watch?v=A_pDQ4P956M)
-- Virer le début et la fin (capture OBS)
-- Virer le son afin d'éviter les copyright du youtube qui traîne derrière
-
-### Titre
-
-Masamune Portofolio - Découverte du site XXX.com
-
-### Description
-
-Découverte en vidéo de la refonte du site XXX.com, afin de profiter des fonds vidéos, des petites animations & autres tutti quanti x)
