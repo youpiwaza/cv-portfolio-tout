@@ -25,6 +25,7 @@ MM/YYYY > MM/YYYY - XXX mois
 Nature des travaux
 — Administration serveur
 — Automatisation
+— Contenus pédagogiques
 — Design & graphisme
 — — Prise de photos
 — — Prise de vidéos
@@ -68,17 +69,21 @@ Technologies
 — Composer
 — CSS
 — Docker
+— Gulp
 — HTML
 — JavaScript
 — MariaDB
 — MySQL
 — Nginx
+— NodeJs
 — NoSQL
 — OBS Studio
 — PHP
 — — PHP 3
 — — PHP 4
 — — PHP 8
+— React
+— Symfony
 — Traefik
 — Ubuntu / Bash
 — WordPress
@@ -89,6 +94,7 @@ Technologies
 Type de projet / cours
 — Administration, CRM
 — E-commerce
+— Formation 3 mois
 — Infrastructure serveur
 — Initiation
 — Refonte de site
