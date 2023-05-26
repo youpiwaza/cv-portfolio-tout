@@ -169,16 +169,23 @@ Capture d'écran du site PROJET
 🚨 Utiliser
 
 ```html
-<h3>titre</h3>
+<h3>Période</h3>
 ligne 1
 ligne 2
+
+<h3>Poste</h3>
+ligne 1
+ligne 2
+
+<h3>Type de projet</h3>
+ligne 1
+ligne 2
+
+<h3>Lien</h3>
+<a href="https://huehue.com/" title="XXX" target="_blank">Site en ligne</a>
 ```
 
 🚨 Ne pas oublier de rajouter les liens
-
-```html
-<a href="https://huehue.com/" title="XXX" target="_blank">Site en ligne</a>
-```
 
 ---
 
