@@ -1,126 +1,63 @@
-# Lisez wam du folio pour le site XXX.com
+# Lisez wam du folio pour le professorat chez 3WAcademy
 
 ------------------------------------------- v 🌱 TODO 🌱 v ----------------------------------------
-
-📝 Notes: XXX.
-
----
 
 ## Contenus textes
 
 ### Titre du projet
 
-NOM_PROJET
+3WAcademy
 
 ### Période & durée
 
-MM/YYYY - XXX mois
-
-MM/YYYY > MM/YYYY - XXX mois
+06/2017 > 08/2019
+~2 ans en décousu
 
 ### Catégories
 
-🔥👷 Ne conserver que les catégories utilisées
-
 Nature des travaux
-— Administration serveur
-— Automatisation
 — Contenus pédagogiques
-— Design & graphisme
-— — Prise de photos
-— — Prise de vidéos
-— — Retouche de photos
-— — Retouche de vidéos
-— Développement web
 — Enseignement
-— Gestion de projet
-— Hébergement web
-— Infrastructure As Code
-— Infrastructure serveur
-— Maintenance
-— Migration de code
-— Nettoyage de code
-— Renfort d'équipe
-— Sécurité
 — Ubuntu
 
 Poste
-— Chef de projet
 — Conseil
-— Développeur web
-— — Back
-— — CMS
-— — DevOps
-— — Front
-— — Full stack
-— — Lead Front
-— — Lead Full stack
-— Formateur
-— Photographe
 — Professeur
 — — Présentiel
 — — Distanciel
 
 Technologies
-— Ansible
-— Code Igniter
-— — Code Igniter 3
-— — Code Igniter 4
 — Composer
 — CSS
-— Docker
 — Git
 — Gulp
 — HTML
 — JavaScript
-— MariaDB
 — MongoDB
 — MySQL
-— Nginx
 — NodeJs
 — NoSQL
-— OBS Studio
 — PHP
-— — PHP 3
-— — PHP 4
-— — PHP 8
 — React
 — Redis
 — Symfony
-— Traefik
 — Ubuntu / Bash
-— WordPress
-— — Thème Divi
-— — WooCommerce
-— WSL2
 
-Type de projet / cours
-— Administration, CRM
-— E-commerce
+Type de cours
 — Formation 3 mois
 — Formation tech. avancée
-— Infrastructure serveur
-— Initiation
-— Refonte de site
-— Site vitrine
 
 ---
 
 ### Tags > Préférer pluriels
 
-🔥👷 Rentrer wp > aperçu page > c/c avec ordre alpha
-
-moderne, one page, tatouages, tattoos, luxe, classique, one page, minimaliste
+apprentissage, bonnes pratiques, documentation, live coding, evaluations, frameworks
 
 ---
 
 ### Extrait
 
-🔥👷 `Type de projet, type de client, objectifs du projet`, 2 lignes max
-
-Réalisation d'un site vitrine pour une amie tatoueuse.
-
-Défi personnel de réaliser un site professionnel en moins de 2 jours ⚡️
+Professorat sur des formations de 3 mois, mais aussi sur des formations avancées
 
 ---
 
