@@ -39,6 +39,7 @@ Technologies
 
 Type de cours
 — Formation 3 mois
+— Cours particuliers
 
 Type de projet
 — Administration, CRM

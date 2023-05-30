@@ -97,12 +97,15 @@ Technologies
 Type de projet / cours
 — Administration, CRM
 — E-commerce
-— Formation 3 mois
-— Formation tech. avancée
 — Infrastructure serveur
-— Initiation
 — Refonte de site
 — Site vitrine
+
+Type de cours
+— Cours particuliers
+— Formation 3 mois
+— Formation tech. avancée
+— Initiation
 
 ---
 

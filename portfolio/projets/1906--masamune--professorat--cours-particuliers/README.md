@@ -120,24 +120,4 @@ Détails techniques / prog.
 <h3>Technologie</h3>
 Détails.
 Détails.
-
-
 ```
-
----
-
-## Contenus youtube
-
-L'édition de la vidéo à été faite sur le site de youtube directement :
-
-- 🎞️ [youtoob](https://www.youtube.com/watch?v=A_pDQ4P956M)
-- Virer le début et la fin (capture OBS)
-- Virer le son afin d'éviter les copyright du youtube qui traîne derrière
-
-### Titre
-
-Masamune Portofolio - Découverte du site XXX.com
-
-### Description
-
-Découverte en vidéo de la refonte du site XXX.com, afin de profiter des fonds vidéos, des petites animations & autres tutti quanti x)

@@ -23,7 +23,7 @@ Technologies
 — OBS Studio
 — PHP
 
-Type de projet / cours
+Type de cours
 — Initiation
 
 ---
