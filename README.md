@@ -4,6 +4,8 @@ Tout ce qui concerne de prêt ou de loin mon CV / Curriculum Vitae, mon portfoli
 
 SST des ressources.
 
+Note : [CV moche sous word](https://drive.google.com/drive/folders/1K_6c86utVANnYQuMQUtEPZpNSBeaVqz4?usp=sharing) disponible sur le drive.
+
 ## ♻️⬆️ Date de dernière mise à jour
 
 02/2022
