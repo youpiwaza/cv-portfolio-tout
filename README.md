@@ -10,7 +10,7 @@ Note : [CV moche sous word](https://drive.google.com/drive/folders/1K_6c86utVANn
 
 02/2022
 
-## ✨ Procédures d'ajout
+## ✨ Procédures d'ajout au CV
 
 🏭 Dupliquer boilerplates `entreprises/` & `projets/`
 
@@ -137,9 +137,51 @@ Au format Markdown.
 
 ---
 
-### 🌱 Au portfolio / site vitrine
+### 👔 Procédures d'ajout au site vitrine / portfolio / nouveau projet
 
-hey
+1. ✅ Cloner `cv-portfolio-tout/portfolio/projets/_BP_README.md`
+2. ✅ Remplir les informations de base
+3. ✅ Rapatrier images si c'pas déjà fait et clean
+   1. Process `cv-portfolio-tout/README.md`
+      1. Récupérer depuis `/Desktop/tas de merde now/masamune.fr dump fichiers/uploads`
+      2. A bouger dans `cv-portfolio-tout/portfolio`
+      3. 🔥 Infos sensibles > noms projets, noms clients, identifiants
+   2. Vérifier si logo entreprise dans le dossier
+   3. `README.md` portfolio > textes title & alt
+   4. WP > Ajouter aux médias
+4. ✅ Page WordPress
+   1. Titre du projet : NOM_PROJET
+   2. Date de publication : Date dans CV & Premier du mois & 12:00
+   3. Publier > Vérifier Url
+   4. Catégories > Ajouter uniquement enfants
+      1. Si nouvelles catégories ajouter au BP
+   5. Tags > Pluriel uniquement
+      1. Sujets du site
+      2. Styles/Ambiance minimaliste / moderne / luxe / classique / one page
+   6. Image en avant > Carré ( 512 x 512, TinyPNG )
+      1. Title `Masamune / PROJET / CLIENT / TYPE_PROJET`
+   7. Extrait
+      1. `Réalisation d'un site vitrine pour un architecte, qui souhaitait un design minimaliste, et une administration simple à prendre en main.`
+      2. Type de projet, type de client, objectifs du projet.
+      3. 2 lignes max
+   8. Désactiver commentaires
+5. ✅ 💾 Rapatrier textes dans portfolio `cv-portfolio-tout/portfolio/projets/CLIENT/README.md`
+6. Utiliser Divi
+   1. Choisir la mise en page
+   2. Télécharger le modèle
+   3. Charger à partir de la bibliothèque "YYMMDD (latest) Projet"
+   4. Remplacer les contenus
+      1. Si pas d'image > Fond > Motif > Cube + #49CCED
+      2. Vérifier si vidéo youtube
+   5. 🚨 Pas oublier
+      1. Liens > Ajouter liens
+      2. Images > Visionneuse ou lien fichier direct
+         1. CSS perso `max-height: 300px; overflow: hidden; width: 100%;`
+         2. Styles > Espacement > Marge externe basse > 2em
+      3. Missions > logo client à la place de celui masamune
+      4. Vérifier en mode texte à la fin qu'il n'y a pas d'ajout de balises alakon `<div><span>&nbsp;`
+      5. 📱 Responsive
+7. 💾 Github
 
 ---
 

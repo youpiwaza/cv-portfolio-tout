@@ -25,24 +25,16 @@ MM/YYYY > MM/YYYY - XXX mois
 Nature des travaux
 — Administration serveur
 — Automatisation
-— Contenus pédagogiques
 — Design & graphisme
-— — Prise de photos
-— — Prise de vidéos
-— — Retouche de photos
-— — Retouche de vidéos
 — Développement web
-— Enseignement
 — Gestion de projet
 — Hébergement web
-— Infrastructure As Code
 — Infrastructure serveur
 — Maintenance
 — Migration de code
 — Nettoyage de code
 — Renfort d'équipe
 — Sécurité
-— Ubuntu
 
 Poste
 — Chef de projet
@@ -53,13 +45,9 @@ Poste
 — — DevOps
 — — Front
 — — Full stack
-— — Lead Front
-— — Lead Full stack
+— — Lead
 — Formateur
-— Photographe
 — Professeur
-— — Présentiel
-— — Distanciel
 
 Technologies
 — Ansible
@@ -100,12 +88,6 @@ Type de projet / cours
 — Infrastructure serveur
 — Refonte de site
 — Site vitrine
-
-Type de cours
-— Cours particuliers
-— Formation 3 mois
-— Formation tech. avancée
-— Initiation
 
 ---
 
@@ -173,22 +155,7 @@ Capture d'écran du site PROJET
 
 ## 4 cases résumé / liens
 
-🚨 Utiliser
-
 ```html
-<h3>Période</h3>
-ligne 1
-ligne 2
-
-<h3>Poste</h3>
-ligne 1
-ligne 2
-
-<h3>Type de projet</h3>
-ligne 1
-ligne 2
-
-<h3>Lien</h3>
 <a href="https://huehue.com/" title="XXX" target="_blank">Site en ligne</a>
 ```
 
