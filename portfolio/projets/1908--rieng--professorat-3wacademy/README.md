@@ -1,7 +1,5 @@
 # Lisez wam du folio pour le professorat chez 3WAcademy
 
-------------------------------------------- v 🌱 TODO 🌱 v ----------------------------------------
-
 ## Contenus textes
 
 ### Titre du projet
@@ -63,45 +61,35 @@ Professorat sur des formations de 3 mois, mais aussi sur des formations avancée
 
 ### Image
 
-#### Carrée
+#### Carrée masamune--professorat--3wacademy.png
 
 Title
 
-Masamune / PROJET / TYPE_PROJET
+Masamune / Professorat / 3WAcademy
 
 Alt
 
-Aperçu du site "PROJET", textes: XXX
+Texte: "Professorat", "3WAcademy", "pas d'image". Dessin sous paint de moi qui donne cours dans une salle de classe. J'ai un super t-shirt licorne death métal
 
-#### Miniature
+#### Logo entreprise carré
 
 Title
 
-Masamune / PROJET / TYPE_PROJET
+Masamune / 3WAcademy / Logo entreprise
 
 Alt
 
-Aperçu du site "PROJET", textes: XXX
+Texte "3W Academy" sur fond orange en forme de bouclier
 
-#### Logo
+#### Logo entreprise Miniature
 
 Title
 
-Masamune / PROJET / Création d'un logo temporaire
+Masamune / 3WAcademy / Bannière entreprise
 
 Alt
 
-Logo : XXX
-
-#### Autres
-
-Title
-
-PROJET / Page d'accueil
-
-Alt
-
-Capture d'écran du site PROJET
+Texte "3W" sur fond orange en forme de bouclier, à côté "ACADEMY, 10% de théorie, 90% de pratique"
 
 ---
 
@@ -111,69 +99,81 @@ Capture d'écran du site PROJET
 
 ```html
 <h3>Période</h3>
-ligne 1
-ligne 2
+06/2017 > 08/2019
+~2 ans en décousu
 
 <h3>Poste</h3>
-ligne 1
-ligne 2
+Professeur
+Conseil
 
-<h3>Type de projet</h3>
-ligne 1
-ligne 2
+<h3>Type de cours</h3>
+Formation 3 mois
+Formation tech. avancée
 
 <h3>Lien</h3>
-<a href="https://huehue.com/" title="XXX" target="_blank">Site en ligne</a>
+<a href="https://3wa.fr/" title="Formations pour devenir dev web assez cool en vrai" target="_blank">Site de l'organisme</a>
 ```
-
-🚨 Ne pas oublier de rajouter les liens
 
 ---
 
-## 🎯 Mission / s
+## 👨‍🏫 Missions
 
-👨‍🏫 Professorat
+Cette mission marque mes débuts dans le **professorat**.
 
-👔 Réalisé pour le compte du client EUL_CLIENT qui est parfois bien sympa.
+Il s'agissait de donner des cours sur des formations de 3 mois comprenant les bases de la programmation.
 
-🙋 Description du projet en terme compréhensibles par les humains véritables
+Mon rôle premier était d'**enseigner** lors des 2 derniers mois de cette formation : *JavaScript*, *PHP* et *MySQL*.
 
-Création d'une infrastructure serveur avancée en vue d'héberger mes clients.
+J'ai également donné des cours ponctuels dans des **formations avancées** de 2 ans, ce qui consistait en ~3 semaines d'apprentissages sur les technologies *NodeJs*, *Redis*, *MongoDB*.
 
-Le but était également de monter en compétence dans le domaine du DevOps.
+Les formations étaient principalement en présentiel, et les promotions composées de 15 élèves ou moins.
 
-🚨 Ne pas rentrer dans le gros technique ici, mais plus dessous.
+J'ai accompagné plus de 10 promotions, soit plus de 150 élèves.
 
-🚨 Vérifier en mode texte à la fin qu'il n'y a pas d'ajout de balises alakon `<div><span>&nbsp;`
+J'ai également participé aux autres activités de l'entreprise : participation aux **réunions d'informations**, **concours** de développement, **jury**, etc.
+
+Enfin, j'ai participé à la **rédaction de contenus pédagogiques** (**correction** de l'existant, proposition de **nouveaux exercices**, corrigés **pas à pas**, **QCM**, **tutoriaux**, etc.).
 
 ---
 
 Nature des travaux
-Développement web
-Design & graphisme
-Gestion de projet
+Contenus pédagogiques
+Enseignement
+Ubuntu
 
 Technologies
-HTML
+Composer
 CSS
+Git
+Gulp
+HTML
+JavaScript
+MongoDB
+MySQL
+NodeJs
+NoSQL
 PHP
-WordPress
-Thème Divi
+React
+Redis
+Symfony
+Ubuntu / Bash
 
 ---
 
-## 👨‍💻 Développement
+## 📝 Rédaction
 
 Détails techniques / prog.
 
 ---
 
 ```html
-<h3>Technologie</h3>
-Détails.
-Détails.
+<h3>Création de supports</h3>
+Création d'articles de blog dédiés : <a href="https://blog.masamune.fr/dev-et-prog/prauf/3wa-exercice-js3-ajax/" target="_blank" title="L'un des exercices rédigés, mais en privé :x" style="color: #cd5c5c !important;" rel="noopener">exos</a> &amp; <a href="https://blog.masamune.fr/dev-et-prog/introduction-gulp-module-bundle/" target="_blank" title="Tutoriel introduction à l'automatisation avec Gulp" style="color: #cd5c5c !important;" rel="noopener">dojos</a>.
+Live coding &amp; vidéos récapitulatives.
 
-
+<h3>Ateliers</h3>
+Cours supplémentaires : freelance, vie en entreprise.
+Soirée Hackatons / Battle dev / Pizzas
 ```
 
 ---
