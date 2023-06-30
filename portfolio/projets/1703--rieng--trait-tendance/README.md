@@ -79,8 +79,6 @@ Photographie d'une réception préparée par Trait'tendance, avec plusieurs stan
 <a href="https://www.trait-tendance.com/" title="Traiteur de luxe sur Paris" target="_blank" rel="nofollow">Site de l'entreprise</a>
 ```
 
-------------------------------------------- v 🌱 TODO 🌱 v ----------------------------------------
-
 ---
 
 ## 🎯 Missions

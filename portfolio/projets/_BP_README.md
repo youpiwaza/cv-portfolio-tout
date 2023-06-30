@@ -181,20 +181,6 @@ Le but était également de monter en compétence dans le domaine du DevOps.
 
 ---
 
-Nature des travaux
-Développement web
-Design & graphisme
-Gestion de projet
-
-Technologies
-HTML
-CSS
-PHP
-WordPress
-Thème Divi
-
----
-
 ## 👨‍💻 Développement
 
 Détails techniques / prog.
