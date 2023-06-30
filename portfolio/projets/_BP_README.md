@@ -156,7 +156,7 @@ Capture d'écran du site PROJET
 ## 4 cases résumé / liens
 
 ```html
-<a href="https://huehue.com/" title="XXX" target="_blank">Site en ligne</a>
+<a href="https://huehue.com/" title="XXX" target="_blank" rel="nofollow">Site en ligne</a>
 ```
 
 🚨 Ne pas oublier de rajouter les liens
