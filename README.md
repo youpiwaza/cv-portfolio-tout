@@ -139,9 +139,9 @@ Au format Markdown.
 
 ### 👔 Procédures d'ajout au site vitrine / portfolio / nouveau projet
 
-1. ✅ Cloner `cv-portfolio-tout/portfolio/projets/_BP_README.md`
-2. ✅ Remplir les informations de base
-3. ✅ Rapatrier images si c'pas déjà fait et clean
+1. Cloner `cv-portfolio-tout/portfolio/projets/_BP_README.md`
+2. Remplir les informations de base
+3. Rapatrier images si c'pas déjà fait et clean
    1. Process `cv-portfolio-tout/README.md`
       1. Récupérer depuis `/Desktop/tas de merde now/masamune.fr dump fichiers/uploads`
       2. A bouger dans `cv-portfolio-tout/portfolio`
@@ -149,7 +149,7 @@ Au format Markdown.
    2. Vérifier si logo entreprise dans le dossier
    3. `README.md` portfolio > textes title & alt
    4. WP > Ajouter aux médias
-4. ✅ Page WordPress
+4. Page WordPress
    1. Titre du projet : NOM_PROJET
    2. Date de publication : Date dans CV & Premier du mois & 12:00
    3. Publier > Vérifier Url
@@ -165,7 +165,7 @@ Au format Markdown.
       2. Type de projet, type de client, objectifs du projet.
       3. 2 lignes max
    8. Désactiver commentaires
-5. ✅ 💾 Rapatrier textes dans portfolio `cv-portfolio-tout/portfolio/projets/CLIENT/README.md`
+5. 💾 Rapatrier textes dans portfolio `cv-portfolio-tout/portfolio/projets/CLIENT/README.md`
 6. Utiliser Divi
    1. Choisir la mise en page
    2. Télécharger le modèle
