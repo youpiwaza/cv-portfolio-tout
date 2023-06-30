@@ -44,7 +44,7 @@ moderne, minimaliste, architecture, épuré, galerie, responsive
 
 ### Extrait
 
-Réalisation d'un site vitrine pour un architecte.
+Réalisation d'un site vitrine pour un architecte
 
 Minimaliste et administration facile
 
