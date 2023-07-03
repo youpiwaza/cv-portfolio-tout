@@ -50,6 +50,12 @@ Poste
 — Professeur
 
 Technologies
+— WordPress
+— PHP
+— JavaScript
+— HTML
+— CSS
+
 — Ansible
 — Code Igniter
 — — Code Igniter 3
