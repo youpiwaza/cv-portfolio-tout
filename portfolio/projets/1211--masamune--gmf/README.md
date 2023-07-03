@@ -82,7 +82,7 @@ Nope
 
 ---
 
-## 🎯 Mission / s
+## 🎯 Mission
 
 👔 Intégration de popups pour un grand groupe d'assurances
 
