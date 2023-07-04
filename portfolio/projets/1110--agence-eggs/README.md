@@ -2,7 +2,7 @@
 
 ## Notes
 
-Les 3 gros projets Hotwheels, Kenzo & Clairefontaine sontt à part afin de les mettre plus en avant, mais besoin de liens
+Les 3 gros projets Hotwheels, Kenzo & Clairefontaine sontt à part afin de les mettre plus en avant
 
 ## Contenus textes
 
