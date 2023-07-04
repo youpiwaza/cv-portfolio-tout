@@ -16,7 +16,7 @@ La Poste / Intégration
 
 ### 🎯 Missions
 
-- Création de gabarits, intégration
+- Création de gabarits, intégration de templates
 
 ## Images
 

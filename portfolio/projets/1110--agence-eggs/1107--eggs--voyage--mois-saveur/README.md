@@ -16,7 +16,7 @@ Voyage / Le mois des saveurs
 
 ### 🎯 Missions
 
-- Site Full Flash AS3, Création, gestion et administration d'un mini-site de type concours
+- Site Full Flash AS3, Création, gestion et administration d'un mini-site de type jeu concours
 
 ## Images
 
