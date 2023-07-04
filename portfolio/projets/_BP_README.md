@@ -23,77 +23,81 @@ MM/YYYY > MM/YYYY - XXX mois
 🔥👷 Ne conserver que les catégories utilisées
 
 Nature des travaux
-— Administration serveur
-— Automatisation
-— Design & graphisme
-— Développement web
-— Gestion de projet
-— Hébergement web
-— Infrastructure serveur
-— Maintenance
-— Migration de code
-— Nettoyage de code
-— Renfort d'équipe
-— Sécurité
+
+- Administration serveur
+- Automatisation
+- Design & graphisme
+- Développement web
+- Gestion de projet
+- Hébergement web
+- Infrastructure serveur
+- Maintenance
+- Migration de code
+- Nettoyage de code
+- Renfort d'équipe
+- Sécurité
 
 Poste
-— Chef de projet
-— Conseil
-— Développeur web
-— — Back
-— — CMS
-— — DevOps
-— — Front
-— — Full stack
-— — Lead
-— Formateur
-— Professeur
+
+- Chef de projet
+- Conseil
+- Développeur web
+  - Back
+  - CMS
+  - DevOps
+  - Front
+  - Full stack
+  - Lead
+- Formateur
+- Professeur
 
 Technologies
-— WordPress
-— PHP
-— JavaScript
-— HTML
-— CSS
 
-— Ansible
-— Code Igniter
-— — Code Igniter 3
-— — Code Igniter 4
-— Composer
-— CSS
-— Docker
-— Git
-— Gulp
-— HTML
-— JavaScript
-— MariaDB
-— MongoDB
-— MySQL
-— Nginx
-— NodeJs
-— NoSQL
-— OBS Studio
-— PHP
-— — PHP 3
-— — PHP 4
-— — PHP 8
-— React
-— Redis
-— Symfony
-— Traefik
-— Ubuntu / Bash
-— WordPress
-— — Thème Divi
-— — WooCommerce
-— WSL2
+- WordPress
+- PHP
+- JavaScript
+- HTML
+- CSS
+
+- Ansible
+- Code Igniter
+  - Code Igniter 3
+  - Code Igniter 4
+- Composer
+- CSS
+- Docker
+- Git
+- Gulp
+- HTML
+- JavaScript
+- MariaDB
+- MongoDB
+- MySQL
+- Nginx
+- NodeJs
+- NoSQL
+- OBS Studio
+- PHP
+  - PHP 3
+  - PHP 4
+  - PHP 8
+- React
+- Redis
+- Symfony
+- Traefik
+- Ubuntu / Bash
+- WordPress
+  - Thème Divi
+  - WooCommerce
+- WSL2
 
 Type de projet / cours
-— Administration, CRM
-— E-commerce
-— Infrastructure serveur
-— Refonte de site
-— Site vitrine
+
+- Administration, CRM
+- E-commerce
+- Infrastructure serveur
+- Refonte de site
+- Site vitrine
 
 ---
 

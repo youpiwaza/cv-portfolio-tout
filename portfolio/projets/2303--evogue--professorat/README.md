@@ -147,4 +147,16 @@ Rédaction de contenus pédagogiques, ainsi que des évaluations
 
 Enseignement dans de prestigieuses écoles parisiennes
 
+## 🎓 Cours
+
+Angular, introduction (2 jours)
+
+Javascript, introduction (1 journée)
+
+Node JS & Express JS, introduction (2 jours)
+
+PHP et SQL, introduction (2 jours)
+
+ReactJs, introduction (4 jours)
+
 ---
