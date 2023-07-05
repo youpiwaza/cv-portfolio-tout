@@ -26,6 +26,7 @@ Poste
 Technologies
 
 - Angular
+- DevOps
 - Javascript
 - PHP
 - MySQL
