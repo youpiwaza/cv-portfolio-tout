@@ -142,6 +142,11 @@ Au format Markdown.
 3. Mise à jour de `cv/xp`
 4. Mise à jour de `cv/competences`
 5. Upload sur masamune.fr/cv
+6. Maj de la [liste de technos/compétences](https://docs.google.com/spreadsheets/d/1PRnekwnyb4MZHagqTLvMCuVENYs8-7VIgpYGB4pyqIg/edit?gid=0#gid=0)
+
+---
+
+Le [CV moche sous word yay](https://drive.google.com/drive/folders/1K_6c86utVANnYQuMQUtEPZpNSBeaVqz4?usp=sharing)
 
 ---
 
