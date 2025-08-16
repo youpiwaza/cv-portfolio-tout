@@ -8,7 +8,7 @@ Note : [CV moche sous word](https://drive.google.com/drive/folders/1K_6c86utVANn
 
 ## ♻️⬆️ Date de dernière mise à jour
 
-02/2022
+08/2025
 
 ## ✨ Procédures d'ajout au CV
 
@@ -20,14 +20,14 @@ Renommage des fichiers via [AntRenamer](https://antp.be/software/renamer/fr)
 
 #### Arborescence
 
-1. `cv-portfolio-tout/assets/images/portfolio/entreprises`
+1. `cv-portfolio-tout/portfolio/entreprises`
    1. `/YYMM--nom-entreprise`, date de fin du **dernier** projet
       1. 🖼️ `/non-compresse`
          1. Logo de base
       2. 🖼️ `_carre--nom-entreprise.png`, 512 x 512
       3. 🖼️ `_miniature--nom-entreprise.png`, ~1200 x 512
       4. 📝 `README.md`, t'es qui vous, historique si multiples projets
-2. `cv-portfolio-tout/assets/images/portfolio/projets`
+2. `cv-portfolio-tout/portfolio/projets`
    1. 👥 `/YYMM--rieng--nom-entreprise--nom-projet`, si aucune ressources
       1. `cv-portfolio-tout/portfolio/projets/__images bp pour vide`
    2. `/YYMM--nom-entreprise--nom-projet`, date de fin de projet
@@ -126,14 +126,22 @@ Au format Markdown.
 
 ⚡️ Ready à c/c
 
-1. Mise à jour du PDF
-   1. `/_docs/craft-and-tests/`
+1. Export au format PNG également au cazou
+   1. // Hauteur 1200px
+   2. // Tinypng
+   3. Ajout du PNG à la racine de  ce projet
+   4. Ajout à `cv/index--cv-seo-fallback-and-js-redirect-to-pdf/cv.png`
+2. Mise à jour du PDF
+   1. `/__craft-and-tests/`
    2. Ajout du PDF dans `assets/pdf`
    3. Ajout du PDF à la racine de  ce projet
-   4. Mise à jour de `/index`
-2. Mise à jour de `/xp`
-3. Mise à jour de `/competences`
-4. Upload sur masamune.fr/cv
+   4. Mise à jour de `cv/index--cv-seo-fallback-and-js-redirect-to-pdf`
+      1. Maj du fichier
+      2. `./script.js` > `const pdfUri`
+   5. Ajout à `cv/index--cv-seo-fallback-and-js-redirect-to-pdf/cv.pdf`
+3. Mise à jour de `cv/xp`
+4. Mise à jour de `cv/competences`
+5. Upload sur masamune.fr/cv
 
 ---
 

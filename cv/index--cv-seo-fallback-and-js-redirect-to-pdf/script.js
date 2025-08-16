@@ -1,6 +1,9 @@
 console.log('script.js');
 console.log('Sources if you wanna check > https://github.com/youpiwaza/cv-portfolio-tout');
 
+// * Redirections
+const pdfUri = '250816-CV-Maxime-Chevasson-Dev-Web-Fullstack---avec-liens.pdf';
+
 window.addEventListener('DOMContentLoaded', () => {
   // * Font face observer
   // https://github.com/bramstein/fontfaceobserver
@@ -27,9 +30,6 @@ window.addEventListener('DOMContentLoaded', () => {
     htmlHTML.classList.add('bg');
   }, 500);
 
-  // * Redirections
-  const pdfUri = '230202-CV-Maxime-Chevasson-Dev-Web-Fullstack---avec-lieng.pdf';
-  
   // Mobile
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
     // Redirect to online pdf display
